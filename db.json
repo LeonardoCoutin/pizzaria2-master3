@@ -1,0 +1,31 @@
+{
+    "Cardapio": [
+      {
+        "sabor": "Peperoni",
+        "img": "https://media3.giphy.com/media/4ayiIWaq2VULC/giphy.gif",
+        "id": 1
+      },
+      {
+        "sabor": "Frango com Catupury",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0c/b2/ee/a1/pizza-frango-catupiry.jpg",
+        "id": 2
+      },
+      {
+        "sabor": "quatro queijos",
+        "img": "https://appclair.com.br/wp-content/uploads/2018/11/pizza-quatro-queijos.png",
+        "id": 3
+      },
+      {
+        
+        "sabor": "Carne Seca",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0e/5b/c6/ac/pizza-carne-seca.jpg",
+        "id": 4
+      },
+      {
+        
+        "sabor": "Bacalhau",
+        "img": "https://www.cantinacheirodepizza.com.br/content/images/thumbs/0000018_bacalhau-com-catupiry_800.png",
+        "id": 5
+      }
+    ]
+  }
